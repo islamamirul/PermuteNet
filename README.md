@@ -22,7 +22,13 @@
  
  
  #  Learning Translation Invariant Representation
+ 
+ Code coming soon!
 
+ #  Targeting Position-Encoding Channels
+ 
+ Code coming soon!
+ 
 <br>
 
 # BibTeX
