@@ -6,7 +6,6 @@
 
 <br>
 
-**Code will be released soon!**
 <br>
 
 # BibTeX
