@@ -8,15 +8,17 @@
 
 #  Channel-wise Position Encoding
 
-Train GAPNet for location classification or image recognition using the following commands:
+1. Train and Test GAPNet for location classification or image recognition using the following commands:
 
             cd channel-wise-position-encoding/
             python trainval_gapnet.py 
+            python test_gapnet.py 
             
-Train PermuteNet for location classification or image recognition using the following commands:
+2. Train and Test PermuteNet for location classification or image recognition using the following commands:
 
             cd channel-wise-position-encoding/
             python trainval_permutenet.py 
+            python test_permutenet.py 
             
    
 
