@@ -19,8 +19,9 @@
             cd channel-wise-position-encoding/
             python trainval_permutenet.py 
             python test_permutenet.py 
-            
-   
+ 
+ 
+ #  Learning Translation Invariant Representation
 
 <br>
 
