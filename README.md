@@ -22,12 +22,19 @@
  
  
  #  Learning Translation Invariant Representation
- 
  Code coming soon!
+ 
 
  #  Targeting Position-Encoding Channels
  
- Code coming soon!
+ 1. Identify and Rank the position encoding channels followed by targeting the ranked channels using the following commands:
+
+            cd position_attack/
+            bash run_rank_target_neurons.sh
+  
+  Please download the DeepLabv3-ResNet50 model trained on Cityscapes from here and put it under .checkpoints/
+  
+  Download the cityscapes dataset and change the dataset root path accordingly!
  
 <br>
 
