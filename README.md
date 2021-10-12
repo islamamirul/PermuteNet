@@ -32,7 +32,7 @@
             cd position_attack/
             bash run_rank_target_neurons.sh
   
-  Please download the DeepLabv3-ResNet50 model trained on Cityscapes from [Dropbox]([Dropbox](https://www.dropbox.com/sh/we3vk0z9nln0jao/AABVOTQ2N9kcBN_gnN2rJ11Wa?dl=0)) and put it under .checkpoints/
+  Please download the DeepLabv3-ResNet50 model trained on Cityscapes from [Dropbox](https://www.dropbox.com/s/n6zr9snkx6qd5ms/zero_padding_best_deeplabv3_resnet50_cityscapes_os16.pth?dl=0) and put it under .checkpoints/
   
   Download the cityscapes dataset and change the dataset root path accordingly!
  
