@@ -6,6 +6,20 @@
 
 <br>
 
+#  Channel-wise Position Encoding
+
+Train GAPNet for location classification or image recognition using the following commands:
+
+            cd channel-wise-position-encoding/
+            python trainval_gapnet.py 
+            
+Train PermuteNet for location classification or image recognition using the following commands:
+
+            cd channel-wise-position-encoding/
+            python trainval_permutenet.py 
+            
+   
+
 <br>
 
 # BibTeX
