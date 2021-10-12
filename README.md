@@ -27,7 +27,7 @@
 
  #  Targeting Position-Encoding Channels
  
- 1. Identify and Rank the position encoding channels followed by targeting the ranked channels using the following commands:
+ Identify and Rank the position encoding channels followed by targeting the ranked channels using the following commands:
 
             cd position_attack/
             bash run_rank_target_neurons.sh
